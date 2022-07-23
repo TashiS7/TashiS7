@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TashiS7/TashiS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Tashi Sherpa. I'm a aspiring software engineer based in NYC. I'm a accountant transitioning into SWE. Please take a look at my growing reposotories. I'm actively learning new technologies every week.
 
 - 🔭 I’m currently working on React.js...
@@ -13,4 +10,9 @@ My name is Tashi Sherpa. I'm a aspiring software engineer based in NYC. I'm a ac
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**TashiS7/TashiS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
