@@ -10,4 +10,8 @@ My name is Tashi Sherpa. I'm an aspiring software engineer based in NYC. I'm an 
 **TashiS7/TashiS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+https://user-images.githubusercontent.com/99759309/212808421-59a6e065-bbce-4a0d-b90b-4ed9372c05d1.mov
+
+
+
 -->
