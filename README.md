@@ -4,13 +4,15 @@ My name is Tashi Sherpa. I'm an aspiring software engineer based in NYC. I'm an 
 - 💻 I am constantly working on new projects and experimenting with different languages and frameworks.
 - 📚 I am always looking to improve my skills and stay up to date with the latest trends in web development.
 - 🍀 I am dedicated to writing clean, maintainable, and efficient code.
-- 👯‍ ♀️Feel free to take a look at my projects and let me know if you have any feedback or questions!
+- 👯‍ Feel free to take a look at my projects and let me know if you have any feedback or questions!
+
+https://user-images.githubusercontent.com/99759309/212808421-59a6e065-bbce-4a0d-b90b-4ed9372c05d1.mov
+
 
 <!--
 **TashiS7/TashiS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-https://user-images.githubusercontent.com/99759309/212808421-59a6e065-bbce-4a0d-b90b-4ed9372c05d1.mov
 
 
 
